@@ -1,6 +1,7 @@
 # kubernetes_automation
-You can download screen_shot.docx file, it has screen shots for all the steps.
 Setup Kubernetes Cluster with Zero Cost
+
+You can download screen_shot.docx file, it has screen shots for all the steps.
 
 This tutorial will help you to setup Kubernetes cluster (1 Master and 2 worker Nodes) on your Laptop. You need have windows 10 with minimum 8 GB of RAM. We will bootstrap all 3 machine using vagrant and Oracle Virtual Box.
 For example:
